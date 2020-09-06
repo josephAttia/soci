@@ -25,4 +25,4 @@ If we could subsitute this with a fun learning experience social issus will deli
 
 
 # Video
-[![Video](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=aDZUUR72LGI)
+[![Video](https://i9.ytimg.com/vi/aDZUUR72LGI/mq1.jpg?sqp=CPD70PoF&rs=AOn4CLC3EcVslcqiAgM4lLdE0alAVBUQIg)](https://www.youtube.com/watch?v=aDZUUR72LGI)
